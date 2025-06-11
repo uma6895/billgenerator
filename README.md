@@ -1,4 +1,5 @@
 # billgenerator
+https://uma6895.github.io/billgenerator/
 PAN-TASTIC BITES Web Application
 Overview:
 PANTASTIC BITES is a web application that allows users to place orders for the most popular food item, each from the 5 most preferred cuisines around the world. It provides a user-friendly interface for entering customer details, selecting food items, and generating a bill.
@@ -13,6 +14,7 @@ HTML: Used for creating the structure of the web page.
 CSS: Used for styling the web page and making it visually appealing.
 JavaScript: Used for implementing dynamic behavior such as updating the bill based on user input and handling form submissions.
 Bootstrap: Used for responsive design and layout components.
+
 Credits:
 Team Members:
  Uma Unnikrishnan, Diya Ziyad, Nandana Mohan, Dilshada Jibin.
